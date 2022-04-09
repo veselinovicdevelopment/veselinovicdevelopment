@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-### 👋 Hello, there!
-
 Thank you for taking a look at my github profile (so don't hesitate to DM me if you need my help 😎)
 
 Here is a great <b>Senior Full Stack</b> developer.
